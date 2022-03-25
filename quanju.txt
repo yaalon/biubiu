@@ -61,7 +61,7 @@
 "beiyong2jiexi": "https://humaosp.com/json.php?url=",
 "renrenjiexi": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
 "LTjiexi": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=",
-"dianshizhibo": "https://github.com/yaalon/biubiu/raw/main/ds.php",
+"dianshizhibo": "https://github.com/yaalon/biubiu/raw/main/ds.txt",
 "caijizhan": "https://xiaomaomi.cc/api.php",
 "caijizhan2": "https://koko.renrenmi.cc/api.php",
 "tiyuzhibo": "https://m.zhibo8.net",
