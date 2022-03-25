@@ -20,14 +20,34 @@ CCTV14少儿,http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8#
 CCTV14 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225648/index.m3u8#
 CCTV14 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8#
 湖南卫视,http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8#
-江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8#
+湖南卫视,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8#
+湖南卫视,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8#
+湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8#
+湖南卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8#
+湖南卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8#
+浙江卫视,http://39.134.65.208/PLTV/88888888/224/3221225514/index.m3u8#
 浙江卫视,http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8#
-东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8#
+浙江卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#
+浙江卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225695/index.m3u8#
+江苏卫视,http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8#
+江苏卫视,http://183.207.255.197/live/program/live/jswshd/4000000/mnf.m3u8#
+江苏卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225722/index.m3u8#
+江苏卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8#
+江苏卫视,http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8#
 北京卫视,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8#
+北京卫视,http://39.134.65.208/PLTV/88888888/224/3221225678/index.m3u8#
+北京卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225651/index.m3u8#
+北京卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8#
 天津卫视,http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8#
-四川卫视,http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8#
-重庆卫视,http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8#
+天津卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8#
+天津卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8#
+东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8#
+东方卫视,http://39.134.65.208/PLTV/88888888/224/3221225672/index.m3u8#
+东方卫视,http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8#
+东方卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8#
+东方卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8#
 陕西卫视,http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+陕西卫视 4M1576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8#
 #常看电视尾#
 
 #央视频道头#
@@ -115,10 +135,9 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8#
 #央视频道尾#
 
 #卫视频道头#
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8#
-湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8#
 湖南卫视,http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8#
 湖南卫视,http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8#
+湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8#
 湖南卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8#
 湖南卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8#
 浙江卫视,http://39.134.65.208/PLTV/88888888/224/3221225514/index.m3u8#
