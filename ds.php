@@ -47,7 +47,7 @@ CCTV14 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/inde
 东方卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8#
 东方卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8#
 陕西卫视,http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
-陕西卫视 4M1576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8#
+陕西卫视 4M1576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8
 #常看电视尾#
 
 #央视频道头#
